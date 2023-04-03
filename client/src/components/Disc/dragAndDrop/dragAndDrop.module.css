@@ -1,0 +1,21 @@
+.wrapper{
+    width: 100%;
+}
+
+.container{
+    background-color: #b4d3b4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: calc(100vh - 150px);
+    margin: 20px;
+    border: 1px green dashed;
+}
+
+.icon{
+    pointer-events: none;
+
+}.title{
+    pointer-events: none;
+}

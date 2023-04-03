@@ -1,0 +1,7 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://hakerprof:10111989@cloud.wkkobz3.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "Alhar",
+  "filePath": "C:\\Users\\User\\WebstormProjects\\cloud-disk\\server\\files",
+  "staticPath": "C:\\Users\\User\\WebstormProjects\\cloud-disk\\server\\static"
+}

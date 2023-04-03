@@ -1,0 +1,8 @@
+.input {
+    display: none;
+}
+
+.label {
+    cursor: pointer;
+    height: 100%;
+}

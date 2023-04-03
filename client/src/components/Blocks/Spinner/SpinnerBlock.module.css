@@ -1,0 +1,7 @@
+.spinnerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    height: 100%; /* make the container take up the full height of its parent */
+}

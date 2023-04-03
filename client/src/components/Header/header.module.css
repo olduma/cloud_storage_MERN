@@ -1,0 +1,23 @@
+.header{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1440px;
+}
+
+.wrapper{
+    width: 100%;
+    background-color: #212529;
+}
+
+.search{
+    width: 200px;
+}
+
+.github{
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+    /*background-color: white;*/
+}

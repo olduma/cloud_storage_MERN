@@ -1,0 +1,25 @@
+.wrapper {
+    cursor: pointer;
+}
+
+.buttonsBlock {
+    display: none;
+}
+
+.itemContent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper:hover .buttonsBlock {
+    display: block;
+}
+
+.itemName {
+    transform: translateX(0px);
+    transition: 0.2s linear;
+}
+
+.wrapper:hover .itemName {
+    transform: translateX(15px);
+}
