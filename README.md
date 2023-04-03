@@ -12,9 +12,9 @@ Features
 •	Node.js (v12.0.0 or later)
 •	MongoDB (v4.0.0 or later)
 
-Start the server: cd server && npm run dev
-Start the client (in a separate terminal window): cd client && npm start
-Open http://localhost:3000 in your browser to access the app.
+Start the server: cd server && npm run dev. 
+Start the client (in a separate terminal window): cd client && npm start. 
+Open http://localhost:3000 in your browser to access the app. 
 
 Built With
 •	React
